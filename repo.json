@@ -1,0 +1,17 @@
+{
+  "name": "Castle TV Repo",
+  "url": "https://raw.githubusercontent.com/muhammadsahal2002/cloudstream-extensions-castletv/main",
+  "plugins": [
+    {
+      "name": "Castle TV",
+      "version": "1.0.0",
+      "status": "working",
+      "file": "CastleTvProvider.jar",
+      "authors": ["YourName"],
+      "lang": "eng,hin",
+      "type": "source",
+      "iconUrl": "https://raw.githubusercontent.com/muhammadsahal2002/cloudstream-extensions-castletv/main/icon.png",
+      "description": "Castle TV - Movies & Series (Use VLC)"
+    }
+  ]
+}
